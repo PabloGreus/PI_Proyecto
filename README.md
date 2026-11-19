@@ -127,8 +127,6 @@ Ejecutar el esquema SQL aportado para P04 en el gestor elegido, registrar su sal
 
 Para esta entrega, la ejecución se realizará mediante Apache de XAMPP. Iniciar Apache y el gestor de base de datos; importar el esquema y sus datos de prueba; configurar la conexión conforme al entorno local y acceder al endpoint a través de Apache. No abrir PHP directamente ni utilizar Live Server.
 
-[PENDIENTE: configuración comprobada de Apache para esta API, ruta publicada, URL del endpoint, configuración de reescritura y procedimiento de importación en el equipo; deben aportarlos Pablo Greus y Julián Leita].
-
 La respuesta disponible aporta un arranque con el servidor integrado de PHP, que no acredita una configuración de Apache. No se proporcionan aquí una URL ni comandos de despliegue específicos sin evidencia. Repetir las peticiones de la respuesta usando la URL real una vez confirmada.
 
 ### P06 — Diseño y accesibilidad
