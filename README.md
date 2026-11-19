@@ -109,8 +109,6 @@ Abrir `tienda_online_gedes_b2b.html` en el navegador. Revisar las secciones, el 
 
 El original está en el anexo 2.1 de la memoria actual. El formulario asociado debe conservar los identificadores del JavaScript. La respuesta de `Markdown pegado(1).md` contiene un HTML mínimo y un `app.js` corregido para P07, que reutiliza el fragmento de P02.
 
-[PENDIENTE: guardar las versiones de P02 y su HTML asociado como archivos independientes, identificar la respuesta elegida y sus rutas; deben aportarlos Pablo Greus y Julián Leita].
-
 No utilizar el `index.html` de P06 como si fuera el formulario de P02. Una vez guardado el HTML asociado, abrirlo en el navegador con consola y Network visibles y comparar original y corrección con la misma entrada. JSONPlaceholder simula el POST; no confirma reservas reales.
 
 ### P03 — Validación con PHP
